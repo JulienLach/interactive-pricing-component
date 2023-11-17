@@ -1,0 +1,20 @@
+.img {
+    height: 13px;
+}
+
+body {
+    font-family: 'Manrope', sans-serif;
+}
+
+.page-view {
+    letter-spacing: 0.2em;
+}
+
+.dollar-custom {
+    font-size: 35px;
+}
+
+.month {
+    font-size: 17px;
+    color: grey;
+}
