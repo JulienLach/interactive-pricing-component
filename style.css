@@ -18,3 +18,10 @@ body {
     font-size: 17px;
     color: grey;
 }
+
+
+
+
+/* MEDIA QUERIES */
+
+@media(max-width: 450px) {}
